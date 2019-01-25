@@ -1,2 +1,2 @@
-Create newfile.txt 
+create confilict
 Hello GitHub
