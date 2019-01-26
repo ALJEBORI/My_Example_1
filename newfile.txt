@@ -1,3 +1,2 @@
-COOOOOOOOONFLICT
-Hi Chi fy
-tell me how to do merge
+create confilict
+Hello GitHub
